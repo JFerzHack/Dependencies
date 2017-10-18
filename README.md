@@ -1,1 +1,1 @@
-# Dependencies for installing UWP apps
+# Dependencies for UWP apps
